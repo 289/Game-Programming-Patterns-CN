@@ -35,6 +35,7 @@ Game-Programming-Patterns-CN
 
 ## 目录
 
+-  [致谢](00-Acknowledgements.md)
 -  [介绍](01-Introduction.md)
 	-  [架构，性能和游戏](01.1-Architecture, Performance, and Games.md)
 -  [再探设计模式](02-Design Patterns Revisited)
