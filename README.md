@@ -86,18 +86,5 @@ Game-Programming-Patterns-CN
 -  [术语参考](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/wiki/%E6%9C%AF%E8%AF%AD%E5%8F%82%E8%80%83)
 -  [校正事项](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/wiki/%E6%A0%A1%E6%AD%A3%E4%BA%8B%E9%A1%B9)
 
-### 贡献人列表(排名不分先后)
-
-> 注：所有贡献人的名字都会在此列出，欢迎大家踊跃参与翻译、校正。
-
--  [子龙山人](https://github.com/andyque)
--  [kislyl](https://github.com/kislyl)
--  [Henry-T](https://github.com/Henry-T)
--  [lazyqiang](https://github.com/lazyqiang)
--  [zhizhen](https://github.com/zhizhen)
--  [Gwill](https://github.com/Gwill)
--  [Tsiannian](https://github.com/Tsiannian)
--  [coneo](https://github.com/coneo)
--  [Gizmosir](https://github.com/gizmosir)
--  [jptiancai](https://github.com/jptiancai)
--  [ChildhoodAndy](https://github.com/dabing1022)
+### [贡献人列表](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/graphs/contributors)
+非常欢迎也感谢朋友们参与到翻译校正工作中来。
