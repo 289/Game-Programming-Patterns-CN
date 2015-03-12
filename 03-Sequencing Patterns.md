@@ -1,4 +1,4 @@
-序列模式
+# 序列模式
 ============================
 
 Videogames are exciting in large part because they take us somewhere else. For a few minutes (or, let’s be honest with ourselves, much longer), we become inhabitants of a virtual world. Creating these worlds is one of the supreme delights of being a game programmer.
@@ -28,7 +28,7 @@ The patterns in this section are tools for doing just that. A Game Loop is the c
 <!-- 我们可以通过[双缓冲]()把计算机顺序处理的本质隐藏在一个个时间片之后，使得游戏世界中的所有物体看起来是一起更新的。 -->
 
 
-# 本章模式
+## 本章模式
 
 -  [双缓冲](03.1-Double Buffer.md)
 -  [游戏循环](03.2-Game Loop.md)
